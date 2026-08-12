@@ -47,19 +47,8 @@ Computer Engineering student and full-stack developer focused on building respon
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=b-baj&show_icons=true&hide_border=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-baj&layout=compact&hide_border=true&theme=transparent" height="180"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-</p>
-
 ---
 
 ### Connect
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](#) · [Portfolio](#)
+[GitHub](https://github.com/B-BAJ) · [LinkedIn](https://linkedin.com/p/blanka-bajuta) 
