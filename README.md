@@ -47,8 +47,6 @@ Computer Engineering student and full-stack developer focused on building respon
 
 ---
 
----
-
 ### Connect
 
-[GitHub](https://github.com/B-BAJ) · [LinkedIn](https://linkedin.com/p/blanka-bajuta) 
+[GitHub](https://github.com/B-BAJ) · [LinkedIn](https://linkedin.com/in/blanka-bajuta) 
