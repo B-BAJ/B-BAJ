@@ -1,5 +1,5 @@
 
-# Blanka Giyonga Bajuta
+# Blanka Bajuta
 
 **Computer Engineer & Full-Stack Developer · Tanzania**
 
